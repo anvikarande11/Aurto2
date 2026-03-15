@@ -29,42 +29,7 @@ Next.js – Application framework
 React – UI and simulation logic
 TypeScript – Structured data handling
 Tailwind CSS – Styling and layout
-ShadCN UI – Interface components
-
-PROJECT STRUCTURE:
-autorickshaw-odyssey
-│
-├── app/                # Main application pages
-├── components/
-│   ├── game/           # Simulation and game logic
-│   └── ui/             # Interface components
-│
-├── hooks/              # Custom React hooks
-├── lib/                # Utility functions
-├── public/             # Static assets
-├── styles/             # Global styling
-│
-├── package.json
-├── tsconfig.json
-└── next.config.mjs
-                                                                                                                                                                                            Running the Project
-CLONE REPOSITORY
-git clone <repository-url>
-Navigate to the project directory
-cd autorickshaw-odyssey
-Install dependencies
-pnpm install
-Start the development server
-pnpm dev
-Open the application in your browser at
-http://localhost:3000         
-                                                                                                                                                                                                    Future Improvements
-POSSIBLE IMPROVEMNETS INCLUDE:
-2.Adding direct player controls for the autorickshaw
-3.Expanding traffic behaviors
-4.Introducing additional weather effects
-5.Improving collision handling
-6.Adding scoring and progression systems
+ShadCN UI – Interface components                                                                                                                                        
 
 LICENSE:
 This project is intended for educational and demonstration purposes.
