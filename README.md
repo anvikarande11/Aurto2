@@ -24,6 +24,12 @@ The simulation generates road elements dynamically during gameplay. As the playe
 Different objects on the road are represented as structured data and updated continuously to create smooth movement and interaction within the scene.
 The environment updates in real time, giving the impression of an ongoing and evolving city street.
 
+HOW TO OPERATE:
+1.Paste above files in a folder.
+2.In the terminal run: a. npm install
+                      b.npm run dev
+3.click on either local link or network link for the project to function/start.
+
 TECH STACK:
 Next.js – Application framework
 React – UI and simulation logic
